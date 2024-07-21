@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/qrc_icons">
+        <file>icons/MAIA_icon.png</file>
+        <file>icons/MAIA_icon_About.png</file>
+        <file>icons/MAIA_icon_Copy.png</file>
+        <file>icons/MAIA_icon_Help.png</file>
+        <file>icons/MAIA_icon_New.png</file>
+        <file>icons/MAIA_icon_Quit.png</file>
+        <file>icons/MAIA_Splash_UnitConv.png</file>
+    </qresource>
+    <qresource prefix="/qrc_transl">
+        <file>po/maia-unit-conv_fr.qm</file>
+    </qresource>
+</RCC>
